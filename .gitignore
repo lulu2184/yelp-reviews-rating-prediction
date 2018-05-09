@@ -1,2 +1,5 @@
 api_key.txt
 .ipynb_checkpoints/
+.DS_Store
+reviews.csv
+
